@@ -68,4 +68,6 @@
 <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
 </div>
 
+---
+
 ![Hyewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=iey704)
