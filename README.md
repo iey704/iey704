@@ -20,7 +20,9 @@
 ### 📁 PROJECT
 1. [Encore](https://github.com/TEAM-Encore) Musical Community Platform - FE (2024.9 ~ 2025.1)
 2. [Benepick](https://github.com/KEA-8PI) Corporate Welfare Item Raffle Service - FE (2024.06 ~ 2024.08)
+  - [Demo](https://www.youtube.com/watch?v=YUPjxFAGPME)
 3. [Newcord](https://github.com/KEA-Kovengers) Web Blog with Real-time Collaboration - FE (2024.03 ~ 2024.06)
+  - [Demo](https://www.youtube.com/watch?v=_blC7IBvEts)
 4. [Book Study](https://github.com/FE-JSDeepDive) “Modern JavaScript Deep Dive” Book Study (2025.2 ~ 2025.4)
 
 ### ✨ TECH STACK
