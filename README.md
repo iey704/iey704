@@ -5,6 +5,7 @@
 - **🎂 Birth**: 2001.03.20
 - **📧 Email**: hyewonyoon13@gmail.com
 - **✍️ Blog**: [https://velog.io/@hyecircle](https://velog.io/@hyecircle)
+  <br/>
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyecircle)](https://velog.io/@hyecircle)
 
 ### 🎓 EDUCATION
@@ -75,6 +76,7 @@
 
 ---
 
-![Hyewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=iey704)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=iey704)](https://solved.ac/iey704)
+![Hyewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=iey704)
+
