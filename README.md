@@ -2,32 +2,34 @@
 
 ### 🦥 ABOUT ME
 - I am Hye-won Yoon, a developer who strives to grow continuously through diverse experiences under the belief that "there is no experience without learning."
-- **🎂 Birth**: 2001.03.20
 - **📧 Email**: hyewonyoon13@gmail.com
 - **✍️ Blog**: [https://velog.io/@hyecircle](https://velog.io/@hyecircle)
   <br/>
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyecircle)](https://velog.io/@hyecircle)
 
 ### 🎓 EDUCATION
+- Gyeonggi Girls' High School (2017.3 ~ 2020.2)
 - Gachon University (2021.3 ~ 2025.2)
   - B.S. in Artificial Intelligence, School of AI & Software
-- Gyeonggi Girls' High School (2017.3 ~ 2020.2)
 
 ### 💻 EXPERIENCE
-1. QA Automation Tool Development Intern at PTKOREA, D2-DSG-Team9 (2024.12 ~ 2025.9)
-2. Overseas Training & Internship Project at Peoplespace, California (2024.1 ~ 2024.2)
-3. [ITA (IT’s Time)] IT Union Club, 6th Frontend Member (2024.9 ~ 2025.1)
+1. Student Council, School of AI & Software (2021.3 ~ 2023.12)
+2. LG Aimers Hackathon (2023.8 ~ 2023.9)
+3. Overseas Training & Internship Project at Peoplespace, California (2024.1 ~ 2024.2)
 4. Gachon–Kakao Enterprise SW Academy, 4th Frontend Member (2024.3 ~ 2024.8)
-5. LG Aimers Hackathon (2023.8 ~ 2023.9)
-6. Student Council, School of AI & Software (2021.3 ~ 2023.12)
+5. [ITA (IT’s Time)] IT Union Club, 6th Frontend Member (2024.9 ~ 2025.1)
+6. QA Automation Tool Development Intern at PTKOREA, D2-DSG-Team9 (2024.12 ~ 2025.9)
+7. Contract employee at ATEC, Solution DX Development Team (2025.11 ~ 2026.3)
+8. 2026 Open Source Contribution Academy (OSSCA), Mentee (2026.4 ~ 2026.6)
+9. Kakao Tech Bootcamp 4th, Full-Stack Member (2026.5 ~ 2026.11)
 
 ### 📁 PROJECT
-1. [Encore](https://github.com/TEAM-Encore) Musical Community Platform - FE (2024.9 ~ 2025.1)
-2. [Benepick](https://github.com/KEA-8PI) Corporate Welfare Item Raffle Service - FE (2024.06 ~ 2024.08)
-  - [Demo](https://www.youtube.com/watch?v=YUPjxFAGPME)
-3. [Newcord](https://github.com/KEA-Kovengers) Web Blog with Real-time Collaboration - FE (2024.03 ~ 2024.06)
-  - [Demo](https://www.youtube.com/watch?v=_blC7IBvEts)
-4. [Book Study](https://github.com/FE-JSDeepDive) “Modern JavaScript Deep Dive” Book Study (2025.2 ~ 2025.4)
+1. [Newcord](https://github.com/KEA-Kovengers) Web Blog with Real-time Collaboration - FE (2024.03 ~ 2024.06
+   - [Demo](https://www.youtube.com/watch?v=_blC7IBvEts)
+3. [Benepick](https://github.com/KEA-8PI) Corporate Welfare Item Raffle Service - FE (2024.06 ~ 2024.08)
+   - [Demo](https://www.youtube.com/watch?v=YUPjxFAGPME)
+4. [Encore](https://github.com/TEAM-Encore) Musical Community Platform - FE (2024.9 ~ 2025.1)
+5. [Book Study](https://github.com/FE-JSDeepDive) “Modern JavaScript Deep Dive” Book Study (2025.2 ~ 2025.4)
 
 ### ✨ TECH STACK
 ### 🚸 Frontend
