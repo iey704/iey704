@@ -8,7 +8,6 @@
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyecircle)](https://velog.io/@hyecircle)
 
 ### 🎓 EDUCATION
-- Gyeonggi Girls' High School (2017.3 ~ 2020.2)
 - Gachon University (2021.3 ~ 2025.2)
   - B.S. in Artificial Intelligence, School of AI & Software
 
